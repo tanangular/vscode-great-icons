@@ -340,6 +340,9 @@
 		"_f_slim": {
 			"iconPath": "./icons/slim.png"
 		},
+		"_f_svelte": {
+			"iconPath": "./icons/svelte.png"
+		},
 		"_f_source": {
 			"iconPath": "./icons/source.png"
 		},
@@ -793,6 +796,7 @@
 		"sln": "_f_visualstudio",
 		"suo": "_f_visualstudio",
 		"slim": "_f_slim",
+		"svelte": "_f_svelte",
 		"env": "_f_settings",
 		"env.example": "_f_settings",
 		"env.development": "_f_settings",

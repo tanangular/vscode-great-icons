@@ -1,11 +1,11 @@
 {
-    "name": "vscode-great-icons",
-    "displayName": "VSCode Great Icons",
-    "description": "A big pack of icons (100+) for your files.",
+    "name": "vscode-tanangular-icons",
+    "displayName": "VSCode Great Icons Extended",
+    "description": "A big pack of icons (100+) for your files. support svelte",
     "version": "2.1.47",
-    "publisher": "emmanuelbeziat",
+    "publisher": "tanangular",
     "engines": {
-        "vscode": "^1.5.0"
+    	"vscode": "^1.5.0"
     },
     "scripts": {
         "patch": "vsce publish patch",
@@ -18,8 +18,8 @@
     "contributes": {
         "iconThemes": [
             {
-                "id": "vscode-great-icons",
-                "label": "VSCode Great Icons",
+                "id": "vscode-tanangular-icons",
+                "label": "VSCode Tanangular Icons",
                 "path": "./icons.json"
             }
         ]
@@ -40,9 +40,9 @@
         "url": "git+https://github.com/EmmanuelBeziat/vscode-great-icons.git"
     },
     "author": {
-        "email": "contact@emmanuelbeziat.com",
-        "name": "Emmanuel Béziat",
-        "url": "https://www.emmanuelbeziat.com"
+        "email": "tanangular@gmail.com",
+        "name": "tanangular",
+        "url": "https://www.cooldezign.com"
     },
     "license": "MIT",
     "bugs": {
