@@ -3,17 +3,15 @@
 A big pack of icons (100+) for your files.
 Add .svelte files support
 
+
 ![preview](https://github.com/tanangular/vscode-tanangular-great-icons/blob/master/Screen%20Shot%202562-05-13%20at%2015.04.14.png?raw=true)
 
-(**This image is non-exhaustive and may not be up to date**)
-
-Enjoy ☺
-
-> Wow, we reached 2.5 million downloads… You’ve made my little set one of the most used by VSC community (well, really far behind the first, but still!). Thanks for your support! You’re amazing. ♥
 
 ## How to use
+Make vsix files (vscode installer extension) via command
+**vsce package**
 
-After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Great Icons`.
+After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Tanangular Great Icons`.
 
 ## Want more?
 
