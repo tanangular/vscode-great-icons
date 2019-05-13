@@ -3,7 +3,7 @@
 A big pack of icons (100+) for your files.
 Add .svelte files support
 
-![preview](https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg)
+![preview](https://raw.githubusercontent.com/tanangular/vscode-great-tanangular-icons/Screen Shot 2562-05-13 at 15.04.14.png)
 
 (**This image is non-exhaustive and may not be up to date**)
 
