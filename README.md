@@ -10,3 +10,5 @@ After installation and activation, you should go in settings (`File` → `Prefer
    **`npm i vsce -g`**
 2. Run command 
    **`npm run build`**
+
+![preview](https://raw.githubusercontent.com/tanangular/vscode-great-icons-svelte/screen1.png)
