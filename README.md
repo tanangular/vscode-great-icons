@@ -1,4 +1,4 @@
-# VSCode Tanangular Great Icons
+# VSCode Great Icons Svelte
 
 A big pack of icons (100+) for your files.
 Add .svelte files support
