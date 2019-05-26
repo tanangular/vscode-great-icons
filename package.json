@@ -1,7 +1,7 @@
 {
-    "name": "vscode-tanangular-icons",
+    "name": "vscode-great-icons-svelte",
     "displayName": "VSCode Great Icons Extended",
-    "description": "A big pack of icons (100+) for your files. support svelte",
+    "description": "A big pack of icons (100+) for your files.Svelte file icon support",
     "version": "2.1.47",
     "publisher": "tanangular",
     "engines": {
@@ -19,7 +19,7 @@
         "iconThemes": [
             {
                 "id": "vscode-tanangular-icons",
-                "label": "VSCode Tanangular Icons",
+                "label": "VSCode Greate Icons Svelte",
                 "path": "./icons.json"
             }
         ]
@@ -37,12 +37,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/EmmanuelBeziat/vscode-great-icons.git"
+        "url": "git+https://github.com/tanangular/vscode-great-icons-svelte"
     },
     "author": {
         "email": "tanangular@gmail.com",
         "name": "tanangular",
-        "url": "https://www.cooldezign.com"
+        "url": ""
     },
     "license": "MIT",
     "bugs": {
