@@ -11,4 +11,4 @@ After installation and activation, you should go in settings (`File` → `Prefer
 2. Run command 
    **`npm run build`**
 
-![preview](https://raw.githubusercontent.com/tanangular/vscode-great-icons-svelte/screen1.png)
+![svelte icone](https://raw.githubusercontent.com/tanangular/vscode-great-icons-svelte/master/screen1.png)
