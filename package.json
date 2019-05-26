@@ -1,56 +1,56 @@
 {
-    "name": "vscode-great-icons-svelte",
-    "displayName": "VSCode Great Icons Extended",
-    "description": "A big pack of icons (100+) for your files.Svelte file icon support",
-    "version": "2.1.47",
-    "publisher": "tanangular",
-    "engines": {
-    	"vscode": "^1.5.0"
-    },
-    "scripts": {
-        "patch": "vsce publish patch",
-        "icons": "imagemin icons/* --out-dir=icons"
-    },
-    "categories": [
-        "Other",
-        "Themes"
-    ],
-    "contributes": {
-        "iconThemes": [
-            {
-                "id": "vscode-tanangular-icons",
-                "label": "VSCode Greate Icons Svelte",
-                "path": "./icons.json"
-            }
-        ]
-    },
-    "icon": "images/vscode-great-icons_icon.png",
-    "galleryBanner": {
-        "color": "#e0e0e0",
-        "theme": "light"
-    },
-    "keywords": [
-        "icons",
-        "theme",
-        "icon-theme",
-        "customization"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/tanangular/vscode-great-icons-svelte"
-    },
-    "author": {
-        "email": "tanangular@gmail.com",
-        "name": "tanangular",
-        "url": ""
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/EmmanuelBeziat/vscode-great-icons/issues"
-    },
-    "homepage": "https://github.com/EmmanuelBeziat/vscode-great-icons#readme",
-    "devDependencies": {
-        "imagemin-cli": "^4.0.0",
-        "vsce": "^1.57.1"
-    }
+  "name": "vscode-great-icons-svelte",
+  "displayName": "VSCode Great Icons Extended (svelte support)",
+  "description": "A big pack of icons (100+) for your files.svelte file icon support",
+  "version": "1.0.0",
+  "publisher": "tanangular",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "scripts": {
+    "patch": "npx vsce publish patch",
+    "icons": "imagemin icons/* --out-dir=icons",
+    "build": "npx vsce package"
+  },
+  "categories": [
+    "Other",
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+		"id": "vscode-greate-icons-svelte",
+		"label": "VSCode Greate Icons Svelte",
+		"path": "./icons.json"
+      }
+    ]
+  },
+  "icon": "images/vscode-great-icons_icon.png",
+  "galleryBanner": {
+    "color": "#e0e0e0",
+    "theme": "light"
+  },
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "customization",
+    "svelte"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanangular/vscode-great-icons-svelte"
+  },
+  "author": {
+    "email": "tanangular@gmail.com",
+    "name": "tanangular"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanangular/vscode-great-icons-svelte/issues"
+  },
+  "devDependencies": {
+    "imagemin-cli": "^4.0.0",
+    "vsce": "^1.57.1"
+  }
 }
