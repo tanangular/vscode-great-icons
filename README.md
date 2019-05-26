@@ -11,5 +11,5 @@ Add .svelte files support
 Make vsix files (vscode installer extension) via command
 **vsce package**
 
-After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Tanangular Great Icons`.
+After installation and activation, you should go in settings (`File` → `Preferences` on Windows, or `Code` → `Preferences` on OSX), choose `File Icon Theme`, and select `VSCode Great Icons Svelte`.
 
